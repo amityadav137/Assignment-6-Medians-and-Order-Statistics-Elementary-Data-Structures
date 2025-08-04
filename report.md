@@ -1,5 +1,3 @@
-(The full report from the earlier message will be added here to match README)
-
 # Assignment 6: Medians and Order Statistics & Elementary Data Structures
 
 ## Part 1: Selection Algorithms
